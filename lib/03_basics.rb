@@ -16,9 +16,8 @@ def reverse_upcase_noLTA(text)
 end
 
 
-def finder(list_42)
-    if list_42.
-    return 
+def finds(array_42)
+    return (array_42).any? {|text| text. include? "42"}
 end
 
 
